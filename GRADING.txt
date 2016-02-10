@@ -1,0 +1,19 @@
+For this assignment, I felt I did a decent job of meeting the grading requirements. 
+
+I have three main game objects: Two snakes and an apple.
+The two snakes are animated and move freely of one another. Both snakes detect collision
+with the apples as well as the borders of the canvas. More so, the black snake will detect
+a collision with any part of it's own array. These snakes are controlled using Keyboard Events
+and react accordingly. (Arrows for black, WASD for purple)
+
+The game itself isn't terribly too complex, which is why I added the twist of the second snake,
+and also the option for a competitive or cooperative gameplay depending on the player(s). I felt
+that this added to the game, made is unique, but also added another level of complexity. I had to
+now manage having a minimal array length, apple color detection, and expanding the code to let 
+only one snake move freely through itself as opposed to both.
+
+To be entirely honest, I felt this took me too long to do. I'm not a particularly quick or gifted
+coder, I just keep hitting my head against the wall until I eventually get something done. I'd be 
+quite content with about a 70. While I feel like I put forth the effort for a much better grade, 
+I realize that this feat isn't technically impressive, or graphically outstanding. My peers will
+no doubt have created much more stunning projects, but I'm proud of what I managed to do.
